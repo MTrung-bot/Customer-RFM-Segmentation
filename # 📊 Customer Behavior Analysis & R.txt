@@ -1,0 +1,36 @@
+# 📊 Customer Behavior Analysis & RFM Segmentation
+
+## 📝 Project Overview
+Analyze customer behavior in an e-commerce dataset using RFM segmentation (Recency, Frequency, Monetary).  
+Built with Python & Power BI.
+
+## 🎯 Objectives
+- Segment customers by RFM metrics
+- Support targeted marketing campaigns
+
+## 🧪 Process
+1. Preprocess data (merge & clean)
+2. Calculate RFM values
+3. Score each RFM (1–5)
+4. Segment customers (VIP, High Spenders, Churn Risk,...)
+5. Build dashboard with Power BI
+
+## 📈 Results
+| Segment        | Percentage |
+|----------------|------------|
+| VIP            | ~3%        |
+| High Spenders  | ~5.36%     |
+| Churn Risk     | ~4.11%     |
+| New Buyers     | ~35.59%    |
+| Nurture Group  | ~51.88%    |
+
+## 📁 Repo Structure
+
+## 🔧 Tools Used
+- Python (Pandas)
+- Power BI
+- GitHub
+
+## 📌 Author
+Pham Minh Trung – Data Analyst  
+📧 phamminhtrung1201@gmail.com
